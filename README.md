@@ -1,5 +1,7 @@
 ```
 FP/
+├── .vscode/
+│   └── settings.json
 ├── src/
 │   ├── algorithms.py
 │   └── maze_gen.py
