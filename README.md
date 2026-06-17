@@ -2,6 +2,7 @@
 FP/
 ├── .vscode/
 │   └── settings.json
+│
 ├── src/
 │   ├── algorithms.py
 │   └── maze_gen.py
@@ -23,6 +24,6 @@ FP/
 │   └── plot_results.py
 │
 ├── results/                     # (auto-generated)
-├── README.md
+│
 └── requirements.txt
 ```
