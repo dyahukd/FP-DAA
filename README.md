@@ -31,5 +31,7 @@ FP/
 # Cara Menjalankan
 
 `py -3.12 main.py` untuk testing game.
+
 `py -3.12 bench/benchmark.py` untuk membuat file csv di folder results. Ini adalah hasil csv perbandingan BFS dan A*.
+
 `py -3.12 bench/plot_results.py` untuk melihat grafik perbedaan.
