@@ -1,3 +1,4 @@
+```
 FP/
 ├── src/
 │   ├── algorithms.py
@@ -22,3 +23,4 @@ FP/
 ├── results/                     # (auto-generated)
 ├── README.md
 └── requirements.txt
+```
